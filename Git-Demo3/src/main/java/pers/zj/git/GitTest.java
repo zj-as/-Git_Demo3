@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("Hello Git!");
         System.out.println("Hello IDEA!");
         System.out.println("Hello Git and IDEA!");
+        System.out.println("master conflict test!");
     }
 
 }
